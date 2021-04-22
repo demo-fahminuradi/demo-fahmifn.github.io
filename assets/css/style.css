@@ -1,0 +1,31 @@
+body{
+    background: #d8e3e7;
+}
+.bg-bar{
+    background: #126e82;
+}
+.header{
+    background: linear-gradient(to bottom, #126e82, #51c4d3);
+    margin-top: 50px;
+    padding: 50px;
+}
+.text-title{
+    padding-top: 10px;
+}
+#about{
+    background: #d8e3e7;
+    color: #126e82;
+}
+#projects{
+    background: linear-gradient(to bottom, #51c4d3, #126e82);
+    padding: 50px;
+    color: #fff;
+}
+.keterangan{
+    color: #126e82;
+}
+.footer{
+    background: linear-gradient(to bottom, #51c4d3,#126e82);
+    margin-top: 50px;
+    padding: 50px;
+}
